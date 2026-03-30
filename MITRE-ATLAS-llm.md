@@ -9,7 +9,7 @@
 
 **System:** AI Security Gateway / LLM-Powered Application
 **Framework:** MITRE ATLAS v1.0 + OWASP LLM Top 10 2023
-**Author:** Rohith Bangari
+**Author:** 
 
 ### Architecture
 
